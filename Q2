@@ -1,0 +1,4 @@
+c=0
+for i in range(1,51):
+    c=c+i
+print('THE SUM OF NUMBERS FROM 1 TO 50 IS',c)
